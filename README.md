@@ -86,5 +86,5 @@ Now that you have completed your initial analysis, design a Flask API based on t
   
  ## To use:
  When in the open flask domain:
- > with start date only: /api/v1.0/?start=(INPUT START DATE HERE)
+ > with start date only: /api/v1.0/?start=(INPUT START DATE HERE)  
  > with start and end date: /api/v1.0/?start=(INPUT START DATE HERE)&end=(INPUT END DATE HERE)
